@@ -47,23 +47,24 @@ B.Tech IT student at MMMUT Gorakhpur (2023–2027) passionate about Full Stack D
 
 ## 🚀 Featured Projects
 
-### 🚀 CODEPULSE
+### 1.  CODEPULSE
 An AI-powered coding platform with interactive DSA visualizations, AI-driven code dry runs, an online compiler, and practice tools for mastering data structures and algorithms.
 
 🔗 **Live Demo:** [https://codepulse.netlify.app](https://codepulse2.netlify.app/)
 
 📂 **Source Code:** [https://github.com/Divi-1026/CODEPULSE](https://github.com/Divi-1026/CODEPULSE_2)
 
-### 📄 WebDoc AI
+### 2. WebDoc AI
 An AI-powered RAG application that enables users to upload documents or provide website URLs and receive accurate, context-aware answers using LangChain, FAISS, Hugging Face embeddings, and the Groq LLM.
 
-🚀 **Live Demo:** [https://ragchatbotdocumentsearch-nmyqdrfvdzmpvfz3zomax4.streamlit.app/](https://ragchatbotdocumentsearch-nmyqdrfvdzmpvfz3zomax4.streamlit.app/)
+🔗 **Live Demo:** [https://ragchatbotdocumentsearch-nmyqdrfvdzmpvfz3zomax4.streamlit.app/](https://ragchatbotdocumentsearch-nmyqdrfvdzmpvfz3zomax4.streamlit.app/)
 
 📂 **Source Code:** [https://github.com/Divi-1026/RAG_CHATBOT_DOCUMENT_SEARCH](https://github.com/Divi-1026/RAG_CHATBOT_DOCUMENT_SEARCH)
 
-### 🎓 EduCoreDo
+### 3. EduCoreDo
 An education platform that helps students and educators manage courses, share learning resources, track progress, and improve the overall learning experience.
-🚀 **Live Demo:** [https://educore-frontend-b0p4.onrender.com/](https://educore-frontend-b0p4.onrender.com/)
+
+🔗 **Live Demo:** [https://educore-frontend-b0p4.onrender.com/](https://educore-frontend-b0p4.onrender.com/)
 
 📂 **Source Code:** [https://github.com/Divi-1026/EduCore](https://github.com/Divi-1026/EduCore)
 
