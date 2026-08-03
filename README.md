@@ -12,8 +12,8 @@ B.Tech IT student at MMMUT Gorakhpur (2023–2027) passionate about Full Stack D
 
 ## 💻 Coding Profiles
 
-- 🟡 **LeetCode:** [divya_dubey1026](https://leetcode.com/u/divya_dubey1026/)
-- 🍽️ **CodeChef:** [focus_star_79](https://www.codechef.com/users/focus_star_79)
+- 🟡 **LeetCode:** [leetcode](https://leetcode.com/u/divya_dubey1026/)
+- 🍽️ **CodeChef:** [codechef](https://www.codechef.com/users/focus_star_79)
 
 ## 🛠️ Tech Stack
 
@@ -49,6 +49,9 @@ B.Tech IT student at MMMUT Gorakhpur (2023–2027) passionate about Full Stack D
 
 ### 🚀 CODEPULSE
 An AI-powered coding platform with interactive DSA visualizations, AI-driven code dry runs, an online compiler, and practice tools for mastering data structures and algorithms.
+🔗 **Live Demo:** [https://codepulse.vercel.app](https://codepulse2.netlify.app/)
+
+📂 **Source Code:** [https://github.com/Divi-1026/CODEPULSE](https://github.com/Divi-1026/CODEPULSE_2)
 
 ### 📄 WebDoc AI
 An AI-powered RAG application that enables users to upload documents or provide website URLs and receive accurate, context-aware answers using LangChain, FAISS, Hugging Face embeddings, and the Groq LLM.
