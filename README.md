@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Divya+Dubey;Full+Stack+Developer;AI%2FML+Enthusiast;Competitive+Programmer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Divya+Dubey;Full+Stack+Developer;AI%2FML+Enthusiast;Ex-Intern+%40+Accenture" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/B.Tech-IT-8B5CF6?style=for-the-badge&logo=google-classroom&logoColor=white" />
   <img src="https://img.shields.io/badge/MMMUT-Gorakhpur-6366F1?style=for-the-badge&logo=google-maps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Branch-Topper-22C55E?style=for-the-badge&logo=medal&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ex-Intern_%40_Accenture-1A1A1A?style=for-the-badge&logo=accenture&logoColor=white" />
 </div>
 
 <br />
@@ -23,9 +23,23 @@
 
 - 🎓 **B.Tech Information Technology** (2023–2027) · MMMUT Gorakhpur
 - 🏆 **Branch Topper** · Consistent academic excellence
-- 💻 **700+** DSA problems solved across platforms
+- 💼 **Ex-Intern at Accenture** · Worked on enterprise-level projects
+- 💻 **700+** DSA problems solved
 - 🚀 Passionate about **Full Stack Development** & **Generative AI**
-- 🌱 Currently exploring **System Design** & **Advanced Backend Architecture**
+- 🌱 Currently exploring **System Design**, **Cloud Architecture** & **Advanced Backend**
+
+---
+
+## 💼 Experience
+
+### 🏢 Accenture · Software Engineering Intern
+> *Worked on building production-grade applications and enterprise solutions.*
+
+- Developed and optimized scalable backend services using **Node.js** and **Express.js**
+- Integrated **AI-powered chatbots** for customer support automation
+- Built and consumed **RESTful APIs** for seamless frontend-backend communication
+- Collaborated with cross-functional teams to deliver high-impact features
+- Gained hands-on experience with **Agile methodology** and **enterprise-grade tools**
 
 ---
 
@@ -53,6 +67,11 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
 ### 🤖 AI & ML
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-0052CC?style=flat-square&logo=meta&logoColor=white)
@@ -72,6 +91,8 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Judge0_API-FF6B00?style=flat-square&logo=judge0&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" />
 </p>
 
 🔗 **[Live Demo](https://codepulse2.netlify.app/)** · 📂 **[Source Code](https://github.com/Divi-1026/CODEPULSE_2)**
@@ -87,6 +108,7 @@
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/FAISS-0052CC?style=flat-square&logo=meta&logoColor=white" />
   <img src="https://img.shields.io/badge/Groq-FF6B00?style=flat-square&logo=groq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
 </p>
 
 🔗 **[Live Demo](https://ragchatbotdocumentsearch-nmyqdrfvdzmpvfz3zomax4.streamlit.app/)** · 📂 **[Source Code](https://github.com/Divi-1026/RAG_CHATBOT_DOCUMENT_SEARCH)**
@@ -101,9 +123,24 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
 </p>
 
 🔗 **[Live Demo](https://educore-frontend-b0p4.onrender.com/)** · 📂 **[Source Code](https://github.com/Divi-1026/EduCore)**
+
+---
+
+### 4. Flood Risk Prediction System
+> An ML/IoT-based flood monitoring and prediction system using sensor data and machine learning.
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/LightGBM-FF6F00?style=flat-square&logo=lightgbm&logoColor=white" />
+  <img src="https://img.shields.io/badge/IoT-FF6B00?style=flat-square&logo=iot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Contiki-0052CC?style=flat-square&logo=contiki&logoColor=white" />
+</p>
+
+📂 **[Source Code](https://github.com/Divi-1026/Flood-Risk-Prediction)**
 
 ---
 
