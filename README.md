@@ -130,20 +130,6 @@
 
 ---
 
-### 4. Flood Risk Prediction System
-> An ML/IoT-based flood monitoring and prediction system using sensor data and machine learning.
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/LightGBM-FF6F00?style=flat-square&logo=lightgbm&logoColor=white" />
-  <img src="https://img.shields.io/badge/IoT-FF6B00?style=flat-square&logo=iot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Contiki-0052CC?style=flat-square&logo=contiki&logoColor=white" />
-</p>
-
-📂 **[Source Code](https://github.com/Divi-1026/Flood-Risk-Prediction)**
-
----
-
 ## 💻 Coding Profiles
 
 <div align="center">
@@ -181,12 +167,6 @@
 </div>
 
 <br />
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Divi-1026/count.svg" alt="Visitor Count" />
-</div>
-
----
 
 <div align="center">
   <i>💡 "Code. Create. Innovate."</i>
